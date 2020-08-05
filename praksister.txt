@@ -1,0 +1,6 @@
+Nama  : Andri Oktavian
+Kleas : Informatika A2
+Npm   : 4115505080096
+
+kelompok UAS praktikum sistem terdistribusi yang terdiri dari saya sendiri, Affan dan Madani 
+dengan tugas yaitu membuat sebuah repository di github lalu membuat file dan file tersebut harus dimodify
